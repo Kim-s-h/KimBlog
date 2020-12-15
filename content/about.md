@@ -1,0 +1,42 @@
+---
+date: "2020-12-14"
+title: About
+---
+
+My name is Seohyun Kim. I am a postdoctoral research associate at the University of Virginia. I studied quantitative methodologies for my PhD. I love developing useful models, visualizing data, coffee, hiking, and yoga.
+
+
+:octopus: [@Kim-s-h](https://github.com/Kim-s-h)  
+:shaved_ice: [Kim-s-h.github.io](https://Kim-s-h.github.io)  
+:email: <sk6yz@virginia.edu>
+
+
+
+## Education
+
+University of Georgia, Athens, GA  
+
+  * Ph.D. in Quantitative Methodology in 2019
+
+Seoul National University, South Korea
+
+  * M.S. in Statistics in 2013
+
+Chonnam National University, South Korea
+
+  * B.S. in Mathematics Education in 2008
+
+## Employment
+
+University of Virginia, Charlottesville, VA 
+
+  * Postdoctoral research associate, October 2019 - present
+  
+Institute of Certified Public Accountants, Ewing, NJ
+
+  * Psychometric intern, Summer, 2016
+
+University of Georgia, Athens, GA
+
+  * Research assistant, August 2013 - July 2019 
+

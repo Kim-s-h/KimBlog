@@ -44,7 +44,7 @@ University of Georgia, Athens, GA
 
   * Research assistant, August 2013 - July 2019
 
-## Research interest
+## Research interests
 
 Longitudinal data analysis, Mixture modeling, Growth curve modeling, Structural equation modeling, Multilevel modeling, Bayesian analysis, Robust estimation, Quantile regression, Reliability estimation, Topic modeling, Machine learning, Data visualization
 

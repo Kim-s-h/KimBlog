@@ -32,11 +32,30 @@ University of Virginia, Charlottesville, VA
 
   * Postdoctoral research associate, October 2019 - present
   
+Georgia Center for Assessment, Athens, GA
+
+  * Research assistant, August 2017 - July 2019
+  
 Institute of Certified Public Accountants, Ewing, NJ
 
   * Psychometric intern, Summer, 2016
 
 University of Georgia, Athens, GA
 
-  * Research assistant, August 2013 - July 2019 
+  * Research assistant, August 2013 - July 2019
 
+## Research interest
+
+Longitudinal data analysis, Mixture modeling, Growth curve modeling, Structural equation modeling, Multilevel modeling, Bayesian analysis, Robust estimation, Quantile regression, Reliability estimation, Topic modeling, Machine learning, Data visualization
+
+## Honors and Awards
+
+Brenda H. Loyd Outstanding Dissertation Award, National Council on Measurement in Education (NCME), 2020  
+
+Quantitative Methodology Outstanding Scholar Award, University of Georgia, 2019 
+
+Owen Scott Emerging Scholar Award, University of Georgia, 2018 
+
+AERA Division D In-Progress Research Gala, Top 9 Proposals, AERA, 2016
+
+  * Research title: A mixture partial credit model analysis using language-based covariates

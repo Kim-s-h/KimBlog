@@ -8,13 +8,13 @@ My name is Seohyun Kim. I am a postdoctoral research associate at the University
 
 :octopus: [@Kim-s-h](https://github.com/Kim-s-h)  
 :shaved_ice: [Kim-s-h.github.io](https://Kim-s-h.github.io)  
-:email: <sk6yz@virginia.edu>
+:email: <i class="fas fa-paper-plane"></i> <sk6yz@virginia.edu>
 
 
 
 ## Education
 
-University of Georgia, Athens, GA  
+University of Georgia, Athens, GA 
 
   * Ph.D. in Quantitative Methodology in 2019
 

@@ -1,5 +1,5 @@
 ---
-title: "Data visualization"
+title: "Data Visualization Gallery"
 type: "gallery"
 url: "/gallery"
 maxWidth: "800x"

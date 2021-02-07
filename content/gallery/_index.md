@@ -1,10 +1,10 @@
 ---
-title: "Highlighted Visuals"
+title: "Data visualization"
 type: "gallery"
 url: "/gallery"
 maxWidth: "800x"
-clickablePhotos: true
+clickablePhotos: false
 ---
 
-# Netflix viewing history
-![](netflix_ep.png)
+# Analysis of my netflix viewing history
+![](figures/netflix_ep.png)

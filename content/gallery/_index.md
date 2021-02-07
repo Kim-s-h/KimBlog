@@ -6,5 +6,5 @@ maxWidth: "800x"
 clickablePhotos: false
 ---
 
-# Analysis of my netflix viewing history
+# Analysis of my netflix viewing history 
 ![](figures/netflix_ep.png)

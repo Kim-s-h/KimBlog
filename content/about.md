@@ -2,8 +2,8 @@
 date: "2020-12-14"
 title: About
 ---
-
-My name is Seohyun Kim. I am a postdoctoral research associate at the University of Virginia. I studied quantitative methodologies for my PhD. I love developing useful models, visualizing data, coffee, hiking, and yoga.
+  
+My name is Seohyun Kim. I am a postdoctoral research associate at the University of Virginia. I studied quantitative methodologies for my PhD. I love developing useful models, visualizing data, coffee, hiking, and yoga. I am also a big fan of "[The Office](https://kim-s-h.github.io/gallery)"!
 
 
 :octopus: [@Kim-s-h](https://github.com/Kim-s-h)  

@@ -1,5 +1,5 @@
 ---
-title: "Gallery"
+title: "TidyTuesday project"
 type: "gallery"
 url: "/gallery"
 maxWidth: "800x"
@@ -16,4 +16,4 @@ Here are my some of visualizations of the [TidyTuesday](https://github.com/rford
 ![](figures/world_map_birthPlace.png)
 
 # Loss of Brazilian forest
-![](figures/brazil_loss.png)
+![](/figures/brazil_loss.png)

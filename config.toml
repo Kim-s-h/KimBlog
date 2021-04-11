@@ -46,9 +46,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 #    text = "papers"
 
 
-#[[params.mainMenu]]
-#    link = "portfolio"
-#    text = "portfolio"
+[[params.mainMenu]]
+    link = "gallery"
+    text = "data visualization"
     
 
 

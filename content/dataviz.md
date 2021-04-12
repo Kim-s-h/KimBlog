@@ -1,7 +1,5 @@
 ---
 title: "TidyTuesday project"
-maxWidth: "800x"
-clickablePhotos: false
 ---
 
 Here are my some of visualizations of the [TidyTuesday](https://github.com/rfordatascience/tidytuesday) challenge in 2021. You can find more on my [github](https://github.com/Kim-s-h/tidytuesday).

@@ -47,7 +47,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[params.mainMenu]]
-    link = "gallery"
+    link = "dataviz"
     text = "data visualization"
     
 

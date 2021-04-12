@@ -6,16 +6,12 @@ Here are my some of visualizations of the [TidyTuesday](https://github.com/rford
 
 # Analysis of my netflix viewing history 
 
-<img src="https://github.com/Kim-s-h/tidytuesday/blob/master/Week1%20Netflix/netflix_ep.png" >
-
+![](/gallery/figures/netflix_ep.png)
 
 # Birthplace of artists for artworks acquired by Tate Center
 
-<img class="special-img-class" src="/figures/world_map_birthPlace.png" />
-
-<img class="special-img-class" src="figures/world_map_birthPlace.png" />
-
+![](/gallery/figures/world_map_birthPlace.png)
 
 # Loss of Brazilian forest
 
-![](gallery/figures/brazil_loss.png)
+![](/gallery/figures/brazil_loss.png)

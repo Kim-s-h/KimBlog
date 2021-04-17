@@ -8,9 +8,9 @@ Here are my some of visualizations of the [TidyTuesday](https://github.com/rford
 
 ![](/gallery/figures/netflix_ep.png)
 
-# Birthplace of artists for artworks acquired by Tate Center
+# Virginia post offices
 
-![](/gallery/figures/world_map_birthPlace.png)
+![](/gallery/figures/virginia_postoffice.png)
 
 # Loss of Brazilian forest
 

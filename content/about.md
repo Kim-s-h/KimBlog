@@ -38,7 +38,7 @@ Georgia Center for Assessment, Athens, GA
 
   * Research assistant, August 2017 - July 2019
   
-Institute of Certified Public Accountants, Ewing, NJ
+American Institute of Certified Public Accountants, Ewing, NJ
 
   * Psychometric intern, Summer, 2016
 
@@ -48,7 +48,7 @@ University of Georgia, Athens, GA
 
 ## Research interests
 
-Longitudinal data analysis, Mixture modeling, Growth curve modeling, Structural equation modeling, Multilevel modeling, Bayesian analysis, Robust estimation, Quantile regression, Reliability estimation, Topic modeling, Machine learning, Data visualization
+Topic modeling, Data visualization, Quantile regression, Bayesian methods, Robust estimation, Machine learning, Longitudinal data analysis, Mixture modeling, Growth curve modeling, Structural equation modeling, Multilevel modeling
 
 ## Honors and Awards
 

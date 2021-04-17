@@ -1,9 +1,10 @@
 ---
-date: "2020-12-15"
 title: Projects
 ---
 
 ## University of Virginia
+
+  * Google Search Interest for Certified B Corporations Pre- and Post-Certification.
 
   * National Science Foundation (NSF) funded grant: Robust and Interpretable Bayesian Quantile Longitudinal Analysis in Social and Behavioral Sciences, 2020 - present
 
